@@ -23,7 +23,7 @@
 
 ### Compact language card layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wazimuhb&layout=compact&theme=dark&title_color=009933)](https://github.com/imbarilyn/imbarilyn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imbarilyn&layout=compact&theme=dark&title_color=009933)](https://github.com/imbarilyn/imbarilyn)
 
 ### Wakatime Week Stats
 
