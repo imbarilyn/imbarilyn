@@ -179,6 +179,7 @@ growth-oriented company where I can use my skills to the advantage of the compan
 
 ### Unique Views
 
+[![Image of https://github.com/imbarilyn/linah-views-counter](https://github.com/imbarilyn/linah-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/imbarilyn/linah-views-counter)
 
 
 <p>
