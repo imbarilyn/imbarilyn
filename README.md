@@ -71,6 +71,19 @@ growth-oriented company where I can use my skills to the advantage of the compan
         <a href="https://imbarilyn.github.io/Kuloketi-Divaisi/"
           >Geological Locator</a>
       </td>
+        <td>
+        <a href="https://imbari-pizza.vercel.app/">
+          <img
+            width="300px"
+            src="assets/projects/imbari-pizza.png"
+            alt="imbari-pizza"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://imbari-pizza.vercel.app/"
+          >Imbari pizza</a>
+      </td>
     </tr>   
   </tbody>
 </table>
