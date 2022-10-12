@@ -22,13 +22,13 @@ growth-oriented company where I can use my skills to the advantage of the compan
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 September 2022 - To: 09 October 2022
+From: 10 September 2022 - To: 10 October 2022
 
-JavaScript   93 hrs 30 mins  █████████████████████░░░░   84.59 %
-JSON         11 hrs 18 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
-Markdown     3 hrs 1 min     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-CSS          1 hr 51 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Other        34 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+JavaScript   96 hrs 19 mins  ████████████████████▓░░░░   83.06 %
+JSON         11 hrs 33 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
+CSS          3 hrs 38 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Markdown     3 hrs 35 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+Other        34 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
