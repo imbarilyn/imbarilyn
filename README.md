@@ -170,10 +170,8 @@ Other        38 mins         ░░░░░░░░░░░░░░░░░
 
 ## Contribution Graph
 
-<p>
-  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=imbarilyn&theme=github" alt="imbarilyn" />
-</p>
-&nbsp;
+[![Linah's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=imbarilyn&bg_color=121112&color=a8a4a7&line=1ca01f&point=dbe1dd&area=true&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <br />
 
 ### 🏆 <!--My Trophies-->
