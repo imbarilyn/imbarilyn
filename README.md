@@ -92,8 +92,21 @@ Other        38 mins         ░░░░░░░░░░░░░░░░░
         </a>
       </td>
       <td>
-        <a href="https://imbari-pizza.vercel.app/"
-          >Imbari pizza</a>
+        <a href="https://main--timely-semolina-891cc6.netlify.app/"
+          >My portfolio</a>
+      </td>
+      <td>
+        <a href="https://main--timely-semolina-891cc6.netlify.app/">
+          <img
+            width="300px"
+            src="assets/projects/portfolio.png"
+            alt="my-portfolio"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://main--timely-semolina-891cc6.netlify.app/"
+          >My portfolio</a>
       </td>
     </tr>   
   </tbody>
@@ -218,6 +231,7 @@ Other        38 mins         ░░░░░░░░░░░░░░░░░
 
 
 ### Star my projects [here](https://github.com/imbarilyn?tab=repositories)
+
 
 :relaxed:__Follow for Follow back__:relaxed:
 
