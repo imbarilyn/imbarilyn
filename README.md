@@ -16,6 +16,9 @@ growth-oriented company where I can use my skills to the advantage of the compan
 ### Top Technologies
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D)
+](#)[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
+](#)[![LangChain](https://img.shields.io/badge/-LangChain-2E9A9B?style=for-the-badge&labelColor=black&logo=langchain&logoColor=2E9A9B)
+](#)[![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=for-the-badge&labelColor=black&logo=rubyonrails&logoColor=CC0000)
 ](#)
 
 ### 📊 Monthly development breakdown
