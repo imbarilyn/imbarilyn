@@ -53,65 +53,6 @@ Other        38 mins         ░░░░░░░░░░░░░░░░░
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" alt="Linux" width="40" height="40" />
 </p>
 
-<h2 id="sample-projects">Projects</h2>
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://expense-calculator-device.vercel.app/">
-          <img
-            width="300px"
-            src="assets/projects/expense calc.png"
-            alt="expense-calculator"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://expense-calculator-device.vercel.app/"
-          >Expense Calculator</a>
-      </td>
-      <td>
-        <a href="https://imbarilyn.github.io/Kuloketi-Divaisi/">
-          <img
-            width="300px"
-            src="assets/projects/geoloc1.png"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://imbarilyn.github.io/Kuloketi-Divaisi/"
-          >Geological Locator</a>
-      </td>
-        <td>
-        <a href="https://imbari-pizza.vercel.app/">
-          <img
-            width="300px"
-            src="assets/projects/imbari-pizza.png"
-            alt="imbari-pizza"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://main--timely-semolina-891cc6.netlify.app/"
-          >My portfolio</a>
-      </td>
-      <td>
-        <a href="https://main--timely-semolina-891cc6.netlify.app/">
-          <img
-            width="300px"
-            src="assets/projects/portfolio.png"
-            alt="my-portfolio"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://main--timely-semolina-891cc6.netlify.app/"
-          >My portfolio</a>
-      </td>
-    </tr>   
-  </tbody>
-</table>
-
 <br />
 
   <h2>Certifications</h2>  
