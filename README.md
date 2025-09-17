@@ -15,7 +15,8 @@ growth-oriented company where I can use my skills to the advantage of the compan
 
 ### Top Technologies
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![]Vue Badge(https://juststickers.in/wp-content/uploads/2017/11/vue-js-badge.png)]
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D)
+](#)
 
 ### 📊 Monthly development breakdown
 
